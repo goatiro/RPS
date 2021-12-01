@@ -85,7 +85,7 @@ while True:
                 if rps == computer:
                     print("The computer choose", computer)
                     print("")
-                    print("You Drew.")
+                    print("You drew.")
                     print("")
                     print("")
                     drew += 1
